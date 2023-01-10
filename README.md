@@ -27,5 +27,6 @@ conda install tensorflow-estimator==2.1.0
 
 ```
 
-based on the project of ([https://pages.github.com/](https://github.com/berba1995/Deep_Learning_et_le_Hasard).
+based on the project of @berba1995
+>https://github.com/berba1995/Deep_Learning_et_le_Hasard
 >https://ledatascientist.com/le-deep-learning-et-le-hasard-prediction-du-loto/
