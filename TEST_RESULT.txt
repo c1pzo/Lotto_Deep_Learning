@@ -1,0 +1,12 @@
+GV_master test #1
+[1570613       1]Epoch 00636: early stopping      df = df_tirage.iloc[::-1]
+570613 = 14 25 30 40 41
+
+
+
+
+
+
+
+
+***
