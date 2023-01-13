@@ -19,6 +19,6 @@ dailygrand
 [ 9 17 29 33 42  4]Epoch 00425: early stopping   df = df_tirage.iloc[::-1]
 
 [ 4 19 25 34 37  3]Epoch 00471: early stopping   df = df_tirage.iloc[::+1]
-
+ 04 07 27 33 48 result 1/5
 
 ***
