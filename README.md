@@ -26,7 +26,12 @@ conda install tensorflow-gpu
 conda install tensorflow-estimator==2.1.0
 
 ```
+```
+pip install jupyter nbconvert
 
-based on the project of [@berba1995](https://github.com/berba1995)
+jupyter nbconvert --to python DEEP_LEARNING_ET_LE_HASARD.ipynb
+
+```
+based on the project of [@berba1995](https://github.com/berba1995) and [TimeSerieser](https://github.com/TimeSerieser)
 >
 > ## https://ledatascientist.com/le-deep-learning-et-le-hasard-prediction-du-loto/
