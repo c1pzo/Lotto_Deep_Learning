@@ -27,9 +27,7 @@ conda install tensorflow-estimator==2.1.0
 
 ```
 ```
-pip install jupyter nbconvert
-
-jupyter nbconvert --to python DEEP_LEARNING_ET_LE_HASARD.ipynb
+python lotomax.py
 
 ```
 based on the project of [@berba1995](https://github.com/berba1995) and [TimeSerieser](https://github.com/TimeSerieser)
