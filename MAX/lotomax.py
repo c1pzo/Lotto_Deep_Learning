@@ -296,7 +296,7 @@ for i in range(y_test.shape[0]):
 #The Beam Search method is use to output 10 possible draws. It is worth noting that Replace = False means no duplicate balls.
 
 X_latest = X_test[-1][1:]
-X_latest = np.concatenate([X_latest, y_test[-1].reshape(1, 7)], axis = 0)
+X_latest = np.concatenate([X_latest, y_test[-1].reshape(1, 8)], axis = 0)
 X_latest = X_latest.reshape(1, X_latest.shape[0], X_latest.shape[1])
 print(X_latest + 1)
 
