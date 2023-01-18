@@ -247,7 +247,7 @@ class CosineAnnealingScheduler(callbacks.Callback):
         logs['lr'] = backend.get_value(self.model.optimizer.lr)
         
 EPOCHS = 200
-BATCH_SIZE = 32
+BATCH_SIZE = 32 #32,64,128 
 LR_MAX = 1e-4
 LR_MIN = 1e-5
 
